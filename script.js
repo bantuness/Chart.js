@@ -25,7 +25,8 @@ const config = {
     }
 };
 
-// Renderização do gráfico
+
+// Renderização do gráfico  
 const myChart = new Chart(
     document.getElementById('myChart'),
     config
